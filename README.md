@@ -12,16 +12,21 @@ R: Recency- Depicts the number of days passed since the last transaction.
 F: Frequency- Shows how frequent a customer comes and buys a product.
 M: Monetary Valus- Depicts the total amount spent by that customer.
 For the RFM Analysis a RFM Table was constructed.
+
 ![RFM table](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/RFM%20Table.png)
 
 Post this, the skewness of the data was evaluated
+
 ![skew](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/skew.png)
 
 The RFM data was divided into quantiles for analysing after which the RFM score was assigned to each of the customer.
 The RFM score determined the customer category.
 The different categories obtained were visualised using Plotly
+
 ![Recency](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/Recency.png)
+
 ![Frequency](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/Frequency.png)
+
 ![Monetary Value](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/Monetary.png)
 
 ### Conclusion
@@ -30,9 +35,12 @@ The best customers spent huge amount on online retail buying, were frequent and 
 
 ## K Means Clustering
 The Elbow method was used to identify the appropriate number of clusters for the Switzerland Dataset.
+
 ![Elbow](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/Elbow%20method.png)
+
 The graph shows that 3 number of clusters are ideal. This conclusion was derived because the graph takes a steep movement before 3 and becomes linear after it.
 Post this, the unsupervised K-means clustering model was fit to the dataset and then the results were visualized in a line plot by the seaborn library
+
 ![Snake Plot](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/Snake%20plot.png)
 
 ### Conclusion
