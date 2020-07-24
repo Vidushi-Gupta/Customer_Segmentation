@@ -1,4 +1,4 @@
-# Customer Segmentation using RFM And K Means
+# Customer Segmentation using RFM And K-Means
 Customer Segmentation has always been an important aspect of handeling businesses related to services or goods. It is through customer segmentation that one realises if they are adopting the right strategies and are having happy consumers of their service. 
 The following project utilises the Recency, Frequency and the Monetary Value approach (RFM) and the unsupervised learning model by clustering using K-Means.
 This repository contains two .ipynb for the two different methods used.
