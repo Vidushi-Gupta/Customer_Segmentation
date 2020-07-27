@@ -45,5 +45,5 @@ Post this, the unsupervised K-means clustering model was fit to the dataset and 
 
 ### Conclusion
 The Snake plot shows the monetary attribute and concludes that cluster 1 accounts to the best customers.
-Cluster 2 shows for the lost customers or churned customers. However, cluster 0 shows potential customers. They can be converted to the best customers by providing them with better incentives to shop.
-
+Cluster 2 shows for the lost customers or churned customers. However, cluster 0 shows potential customers. They can be converted to the best customers by providing them with better incentives t
+o shop.
