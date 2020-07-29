@@ -29,6 +29,15 @@ The different categories obtained were visualised using Plotly
 
 ![Monetary Value](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/Monetary.png)
 
+A square plot was plotted using squarify in order to analyse the segments with respect to a whole picture
+
+![Square plot](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/square%20plot%20segments.png)
+
+This clearly shows the count with respect to the total. Thus helping with understanding the effects of the marketing strategies. 
+To analyse the count of customers in each segmet, a bubble plot was plotted using Plotly
+
+![bubble plot](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/bubble%20plot.png)
+
 ### Conclusion
 The best customers spent a huge amount on online retail buying, were frequent and bought often. However a good amount of customers had less frequency and better marketing strategies like offer emails and discount vouchers should be adopted so that more customers are attracted.
 
@@ -43,6 +52,15 @@ Post this, the unsupervised K-means clustering model was fit to the dataset and 
 
 ![Snake Plot](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/Snake%20plot.png)
 
+A dot plot was plotted using Plotly in order to analyse the count in each cluster of customers.
+
+![dot](https://github.com/Vidushi-Gupta/Customer_Segmentation/blob/master/Visualization/clusters%20dot%20plots.png)
+
 ### Conclusion
 The Snake plot shows the monetary attribute and concludes that cluster 1 accounts to the best customers.
 Cluster 2 shows for the lost customers or churned customers. However, cluster 0 shows potential customers. They can be converted to the best customers by providing them with better incentives to shop.
+
+
+You're most welcome to use the notebooks attached here or to fork the repository.
+
+Happy Visualizing!
