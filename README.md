@@ -60,5 +60,7 @@ A **dot plot** was plotted using Plotly in order to analyse the count in each cl
 The Snake plot shows the monetary attribute and concludes that cluster 1 accounts to the best customers.
 Cluster 2 shows for the lost customers or churned customers. However, cluster 0 shows potential customers. They can be converted to the best customers by providing them with better incentives to shop.
 
+
 You're most welcome to use the notebooks attached here or to fork the repository.
+
 Happy Visualizing!
