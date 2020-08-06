@@ -4,7 +4,7 @@ The following project utilises the **Recency, Frequency and the Monetary Value a
 This repository contains two .ipynb for the two different methods used.
 
 ## Dataset
-The dataset used here is the open-source *[online retail]*(https://archive.ics.uci.edu/ml/datasets/Online+Retail) dataset by the **UCI ML repository**. For this project, the sales of Switzerland were considered as it is one of the countries in the world with the highest cost of living. 
+The dataset used here is the open-source *[online retail]*(https://archive.ics.uci.edu/ml/datasets/Online+Retail) dataset by the **UCI ML repository**. For this project, the sales of Switzerland were considered because it is one of the countries in the world with the highest cost of living. 
 
 ## RFM Analysis
 The RFM Analysis involves the following parameters:
